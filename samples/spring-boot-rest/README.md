@@ -37,3 +37,8 @@ http://localhost:8080/rest/api
 ```
 
 Happy conversions!!
+
+# build
+```bash
+gradle build -x test
+```
